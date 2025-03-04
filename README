@@ -1,5 +1,5 @@
 feature-1.1
-111222
+111222333
 This Nagios plugin checks status of Monit server using its XML status.
 
 Unmonitored status causes plugin to return WARNING state, all other failures return CRITICAL state.
