@@ -1,5 +1,5 @@
 
-This Nagios plugin checks status of Monit server using its XML status.
+12This Nagios plugin checks status of Monit server using its XML status.
 
 Unmonitored status causes plugin to return WARNING state, all other failures return CRITICAL state.
 
